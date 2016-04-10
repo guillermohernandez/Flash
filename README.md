@@ -1,6 +1,6 @@
 # Flash
 ======
-SPA - Swipe left or right for a new card, using ionic and meteor
+SPA - Swipe left or right for a new flash card, using ionic and meteor
 
 ## Contact
 #### Guillermo Hernandez Jr
